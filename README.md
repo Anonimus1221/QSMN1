@@ -1,1 +1,26 @@
-# QSMN1
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QSMN</title>
+    <link rel="stylesheet" href="./stilo.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="title">
+            ¿Quieres ser mi novia?
+        </div>
+
+        <div class="buttons">
+            <button id="btnyes" class="btn">Si</button>
+            <button id="btnno" class="btn">No</button>
+        </div>
+    </div>
+
+    <script src="./script.js"></script>
+</body>
+
+</html>
